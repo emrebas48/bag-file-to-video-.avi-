@@ -1,3 +1,7 @@
+@Author Emre Bas
+
+# first we install the packages
+# Zuerst installieren wir die Pakete
 import cv2
 import numpy as np
 
