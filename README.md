@@ -1,4 +1,4 @@
-# Bag to video
+# Bag to video with openCV
 
 
 ## Installation
