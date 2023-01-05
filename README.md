@@ -4,7 +4,7 @@
 ## Installation
 - Clone the project
 ```
-git clone https://github.com/emrebas48/bag-file-to-video-avi-.git
+git clone https://github.com/emrebas48/video-with-openCV.git
 ```
 
 
