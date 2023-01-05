@@ -10,7 +10,7 @@ git clone https://github.com/emrebas48/bag-file-to-video-avi-.git
 
 
 ## Usage for
-Convert .bag file to .avi
+Record video with openCV
 
 
 ## Contributing
